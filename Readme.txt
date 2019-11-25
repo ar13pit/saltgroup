@@ -1,6 +1,5 @@
 Thanks for downloading this theme!
 
-Theme Name: Imperial
-Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: Speech and Language Processing
+Theme URL: No Specified
+Author: Chandra Bhushan Sharma
